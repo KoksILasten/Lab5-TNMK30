@@ -1,0 +1,17 @@
+body {
+  background-color: darkgray;
+}
+
+#partstable{
+	justify-content: center;
+	display: flex;
+	flex-wrap: nowrap;
+	text-align: center;
+}
+
+tr {
+	background-color: white;
+}
+td,th {
+	border-radius: 5px;
+}
